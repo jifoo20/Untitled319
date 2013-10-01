@@ -1,3 +1,1 @@
-﻿var x=10;
-x++;
-x;
+﻿internal.setDebuggerServer(1);

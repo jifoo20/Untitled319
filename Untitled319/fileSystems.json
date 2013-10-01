@@ -1,0 +1,15 @@
+[
+    {
+           "name":"TEST",
+           "path":"c:\\git\\" 
+    },
+    {
+           "name":"SRV",
+           "path":"\\\\srv-4d\\TEMPO\\LE\\" 
+    },
+     {
+           "name":"DATA",
+           "path":"c:\\git\\",
+           "writable":true
+    }
+]
